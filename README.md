@@ -1,6 +1,6 @@
 # wordpress
 
-Durant ma formation professionnelle j'ai aussi eu l'opportunité de créer mon site web avec le CMS WordPress. 
+Durant ma formation professionnelle j'ai aussi eu l'opportunité de créer mon site web avec le CMS WordPress. Mais il est uniquement accessible via le serveur de l'Université (en activant le vpn).
 
 En voici un aperçu :
 
